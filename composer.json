@@ -1,0 +1,16 @@
+{
+  "name": "wsc/domain-check",
+  "description": "Quickly check the availability of different combination of domains",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Karens Grigorjancs",
+      "email": "karens.grigorjancs@gmail.com"
+    }
+  ],
+  "require": {
+    "transip/transip-api-php": "*",
+    "ext-json": "*"
+  }
+}

@@ -1,0 +1,5 @@
+.idea
+transip.private
+composer.phar
+vendor
+domains.json

@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "68764b4dde73d8b262e8d995b528ea15",
+    "packages": [
+        {
+            "name": "transip/transip-api-php",
+            "version": "v5.18.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/transip/transip-api-php.git",
+                "reference": "e60893f9d2c81b648a853de5107dd27e5a9dc962"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/transip/transip-api-php/zipball/e60893f9d2c81b648a853de5107dd27e5a9dc962",
+                "reference": "e60893f9d2c81b648a853de5107dd27e5a9dc962",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "Transip/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "TransIP",
+                    "email": "support@transip.eu"
+                }
+            ],
+            "description": "The TransIP API offers you the opportunity to use our services freely.",
+            "time": "2019-10-03T11:20:14+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "ext-json": "*"
+    },
+    "platform-dev": []
+}
