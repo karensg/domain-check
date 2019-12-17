@@ -1,4 +1,4 @@
-# Damain availability checker
+# Domain availability checker
 
 Uses Transip API to check word combinations domain availability.
 
